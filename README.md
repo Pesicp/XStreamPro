@@ -30,6 +30,11 @@
 
 Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sports TV, TMDB discovery, and Trakt lists using Xtream Codes API or M3U playlists. It is built for users who want organized provider content, profile separation, Kodi PVR integration, EPG support, favorites, filtering, and fast access to large libraries.
 
+<div align="center">
+  <img src="Screenshots/2.png" width="75%">
+  <img src="Screenshots/3.png" width="75%">
+</div>
+
 ---
 
 ## Installation
@@ -94,6 +99,10 @@ Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sp
 | **Sports Results** | SportDB.dev menus for live, today, yesterday, upcoming, standings, and team views |
 | **Sports Group Modes** | Group Sports PVR by countries, provider groups, sport types, or flat list |
 
+<div align="center">
+  <img src="Screenshots/4.png" width="75%">
+</div>
+
 ### M3U Playlist Support
 
 | Feature | Description |
@@ -132,6 +141,11 @@ Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sp
 | **Trakt Menus** | Use Trakt lists, watchlist, history, collection, recommendations, and account actions |
 | **Rating Posters** | Optional RPDb poster integration |
 | **Provider Metadata** | Optionally use provider descriptions, posters, ratings, cast, genre, and duration |
+
+<div align="center">
+  <img src="Screenshots/5.png" width="75%">
+  <img src="Screenshots/6.png" width="75%">
+</div>
 
 ### Playback and Downloads
 

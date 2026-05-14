@@ -28,7 +28,7 @@
 
 ## Overview
 
-Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sports TV, TMDB discovery, and Trakt lists using Xtream Codes API or M3U playlists. It is built for users who want organized provider content, profile separation, Kodi PVR integration, EPG support, favorites, filtering, and fast access to large libraries.
+XStream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sports TV, TMDB discovery, and Trakt lists using Xtream Codes API or M3U playlists. It is built for users who want organized provider content, profile separation, Kodi PVR integration, EPG support, favorites, filtering, and fast access to large libraries.
 
 <div align="center">
   <img src="Screenshots/2.png" width="75%">
@@ -44,10 +44,10 @@ Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sp
 1. In Kodi, go to **Settings > File Manager**
 2. Select **Add Source**
 3. Enter the URL: `https://pesicp.github.io/XStreamPro/releases/`
-4. Enter a name: `XstreamPro`
+4. Enter a name: `XStreamPro`
 5. Click **OK**
 6. Go to **Settings > Add-ons > Install from ZIP file**
-7. Select the `XstreamPro` source you just added
+7. Select the `XStreamPro` source you just added
 8. Click on `plugin.video.xstream-pro-*.*.*.zip` (latest version)
 9. The addon will install and can check for updates from inside the addon
 
@@ -62,7 +62,7 @@ Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sp
 
 ## Setup
 
-1. Open **Xstream Pro** from your Video Add-ons
+1. Open **XStream Pro** from your Video Add-ons
 2. Go to **Tools > Settings**
 3. Under **Profiles - Xtream, M3U**, configure your source:
    - **Xtream Codes**: Enter server URL, username, password, and optional EPG URL
@@ -72,7 +72,7 @@ Xstream Pro is a feature-rich Kodi addon for Live TV, Movies, Series, Replay, Sp
 6. Use **Manage Content** to choose what loads and what should be hidden
 7. Sync PVR when prompted so Live TV appears in Kodi's native TV section
 8. Restart Kodi if prompted after PVR setup
-9. Open Xstream Pro again - your Live TV, Movies, Series, Sports, TMDB, and Trakt menus are ready
+9. Open XStream Pro again - your Live TV, Movies, Series, Sports, TMDB, and Trakt menus are ready
 
 ---
 
@@ -278,4 +278,4 @@ Each profile includes **Manage Content** tools in settings.
 
 ## License
 
-https://github.com/Pesicp/XstreamPro/blob/main/LICENCE.txt
+https://github.com/Pesicp/XStreamPro/blob/main/LICENCE.txt

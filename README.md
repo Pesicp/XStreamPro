@@ -7,7 +7,7 @@
 > **Advanced M3U and Xtream Codes player for Kodi with native PVR integration, Sports PVR, TMDB, Trakt, EPG, downloads, and multi-profile content management.** Built for organized Live TV, Movies, Series, Replay, and provider libraries with clean Kodi integration.
 
 ![Kodi](https://img.shields.io/badge/Kodi-21%20Omega-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20iOS-lightgrey.svg)
 
